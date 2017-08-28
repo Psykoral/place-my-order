@@ -5,5 +5,13 @@
       "authorEmail": "psykoral@flippydisk.com",
       "authorUrl": "www.psykoral.com"
     }
+  },
+  "donejs-cordova": {
+    "name": "place my order",
+    "id": "com.donejs.placemyorder",
+    "platforms": [
+      "android"
+    ],
+    "baseURL": "http://www.place-my-order.com"
   }
 }
