@@ -1,0 +1,9 @@
+{
+  "generator-donejs": {
+    "promptValues": {
+      "authorName": "Psykoral",
+      "authorEmail": "psykoral@flippydisk.com",
+      "authorUrl": "www.psykoral.com"
+    }
+  }
+}
